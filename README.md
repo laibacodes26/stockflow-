@@ -1,2 +1,2 @@
 # stockflow-
-PHP/MySQL e-commerce project with cart, product management, and a Daraz/Temu-style UI — built for Database Systems coursework
+A PHP/MySQL e-commerce web app with user login/register, product listings, cart, and checkout styled like Daraz/Temu. Built for Database Systems coursework
